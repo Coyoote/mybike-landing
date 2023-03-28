@@ -7,7 +7,7 @@
   3. Run `npm install` (or just `npm i`) in your terminal
   4. Run `npm start`
 
-# What you can do?
+# What can you do?
 - Add a todo
 - Delete a todo
 - Change the title of selected todo (double-click on todo)
